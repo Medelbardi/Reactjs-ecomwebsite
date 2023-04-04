@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Medelbardi/Reactjs-ecomwebsite.git/static/css/main.4538c4b6.css",
+    "main.js": "/Medelbardi/Reactjs-ecomwebsite.git/static/js/main.136009fb.js",
+    "static/js/787.34115356.chunk.js": "/Medelbardi/Reactjs-ecomwebsite.git/static/js/787.34115356.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Medelbardi/Reactjs-ecomwebsite.git/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Medelbardi/Reactjs-ecomwebsite.git/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Medelbardi/Reactjs-ecomwebsite.git/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Medelbardi/Reactjs-ecomwebsite.git/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Medelbardi/Reactjs-ecomwebsite.git/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Medelbardi/Reactjs-ecomwebsite.git/index.html",
+    "main.4538c4b6.css.map": "/Medelbardi/Reactjs-ecomwebsite.git/static/css/main.4538c4b6.css.map",
+    "main.136009fb.js.map": "/Medelbardi/Reactjs-ecomwebsite.git/static/js/main.136009fb.js.map",
+    "787.34115356.chunk.js.map": "/Medelbardi/Reactjs-ecomwebsite.git/static/js/787.34115356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4538c4b6.css",
+    "static/js/main.136009fb.js"
+  ]
+}
